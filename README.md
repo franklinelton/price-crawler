@@ -12,13 +12,21 @@ A aplicação funciona como um monitor automatizado de preços.
 Ela:
 
 Coleta preços de diferentes sites
+
 Organiza tudo em uma tabela única e filtrável
+
 Mostra histórico de coletas ao longo do tempo
+
 Destaca promoções automaticamente
+
 Permite filtrar por site, data, produto e promoções
+
 Exibe métricas rápidas como:
+
 Quantidade de registros
+
 Produtos monitorados
+
 Volume de promoções
 
 Tudo em uma interface simples, sem precisar acessar múltiplos sites manualmente.
