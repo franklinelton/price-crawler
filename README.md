@@ -33,24 +33,38 @@ Tudo em uma interface simples, sem precisar acessar múltiplos sites manualmente
 
 # Como fica sua rotina depois?
 Pare de perder tempo fazendo buscas manuais
+
 Passe a ter visibilidade histórica de preços
+
 Consiga identificar promoções e variações rapidamente
+
 Tome decisões com base em dados organizados, não percepção
 
 O que antes era um processo manual e reativo virou algo automatizado e analítico.
 
 ## Como usar
 Abra a aplicação
+
 (Opcional) Clique em “Atualizar agora” para rodar o crawler
+
 Use os filtros para explorar os dados:
+
 Busca por produto, site ou promoção
+
 Filtro por site
+
 Filtro por data
+
 Ordenação por preço ou nome
-Navegue entre:
+
+  Navegue entre:
+
 Tabela de preços (visão atual)
+
 Histórico de coletas (visão temporal)
+
 Clique nos links para acessar diretamente os produtos nos sites
+
 ## Feito com vibecoding 🤖
 
 Não sou desenvolvedor. Construí isso usando IA como ferramenta de desenvolvimento.
