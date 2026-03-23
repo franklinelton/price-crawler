@@ -45,8 +45,6 @@ O que antes era um processo manual e reativo virou algo automatizado e analític
 ## Como usar
 Abra a aplicação
 
-(Opcional) Clique em “Atualizar agora” para rodar o crawler
-
 Use os filtros para explorar os dados:
 
 Busca por produto, site ou promoção
