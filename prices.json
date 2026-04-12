@@ -798,5 +798,45 @@
     "link": "https://www.carrefour.com.br/produto/smartphone-samsung-galaxy-s-g-tela--339687089",
     "produto_buscado": "Samsung Galaxy S26 5G 512GB Preto",
     "data": "2026-04-11"
+  },
+  {
+    "site": "Pague Menos",
+    "nome": "Aptanutri Premium 3 Fórmula Infantil 1 a 3 Anos 800g",
+    "preco": 77.99,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.paguemenos.com.br/aptanutri-3-premium-800g/p",
+    "produto_buscado": "APTANUTRI PREMIUM 3 800G",
+    "data": "2026-04-12"
+  },
+  {
+    "site": "Panvel",
+    "nome": "FÓRMULA INFANTIL APTANUTRI PREMIUM 3 800G",
+    "preco": 62.99,
+    "preco_original": null,
+    "promocao": "Leve mais, pague menos",
+    "link": "https://www.panvel.com/panvel/formula-infantil-aptanutri-premium-3-800g/p-485500",
+    "produto_buscado": "APTANUTRI PREMIUM 3 800G",
+    "data": "2026-04-12"
+  },
+  {
+    "site": "carrefour.com.br",
+    "nome": "Iphone 17 256gb Sálvia - Mg6n4br/a",
+    "preco": 8232.07,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.carrefour.com.br/produto/iphone-gb-salvia-mgnbra-339794814",
+    "produto_buscado": "Apple iPhone 17 256GB Verde Sálvia",
+    "data": "2026-04-12"
+  },
+  {
+    "site": "carrefour.com.br",
+    "nome": "Smartphone Samsung Galaxy S26 5g Tela 6.3",
+    "preco": 7499.0,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.carrefour.com.br/produto/smartphone-samsung-galaxy-s-g-tela--339687089",
+    "produto_buscado": "Samsung Galaxy S26 5G 512GB Preto",
+    "data": "2026-04-12"
   }
 ]
