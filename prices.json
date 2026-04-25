@@ -1588,5 +1588,75 @@
     "link": "https://www.carrefour.com.br/produto/smartphone-samsung-galaxy-s-g-tela--339687089",
     "produto_buscado": "Samsung Galaxy S26 5G 512GB Preto",
     "data": "2026-04-24"
+  },
+  {
+    "site": "Amazon Brasil",
+    "nome": "Danone Nutricia - Aptanutri Premium 3, 1-3 anos, Fórmula de Seguimento, 800g",
+    "preco": 61.19,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.amazon.com.br/dp/B07M73V8JD",
+    "produto_buscado": "APTANUTRI PREMIUM 3 800G",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "Pague Menos",
+    "nome": "Aptanutri Premium 3 Fórmula Infantil 1 a 3 Anos 800g",
+    "preco": 77.99,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.paguemenos.com.br/aptanutri-3-premium-800g/p",
+    "produto_buscado": "APTANUTRI PREMIUM 3 800G",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "Panvel",
+    "nome": "FÓRMULA INFANTIL APTANUTRI PREMIUM 3 800G",
+    "preco": 57.99,
+    "preco_original": null,
+    "promocao": "Leve mais, pague menos",
+    "link": "https://www.panvel.com/panvel/formula-infantil-aptanutri-premium-3-800g/p-485500",
+    "produto_buscado": "APTANUTRI PREMIUM 3 800G",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "Amazon Brasil",
+    "nome": "Apple iPhone 17 (256 GB) - Sálvia",
+    "preco": 6999.0,
+    "preco_original": 7999.0,
+    "promocao": "DE/POR — 13% off",
+    "link": "https://www.amazon.com.br/dp/B0FQJ6ZY75",
+    "produto_buscado": "Apple iPhone 17 256GB Verde Sálvia",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "carrefour.com.br",
+    "nome": "Iphone 17 256gb Sálvia - Mg6n4br/a",
+    "preco": 7499.0,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.carrefour.com.br/produto/iphone-gb-salvia-mgnbra-339794814",
+    "produto_buscado": "Apple iPhone 17 256GB Verde Sálvia",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "Amazon Brasil",
+    "nome": "Celular Samsung Galaxy S26 5G, 512GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.3\" - Preto",
+    "preco": 8189.1,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.amazon.com.br/dp/B0GKQP7T2T",
+    "produto_buscado": "Samsung Galaxy S26 5G 512GB Preto",
+    "data": "2026-04-25"
+  },
+  {
+    "site": "carrefour.com.br",
+    "nome": "Smartphone Samsung Galaxy S26 5g Tela 6.3",
+    "preco": 6248.75,
+    "preco_original": null,
+    "promocao": null,
+    "link": "https://www.carrefour.com.br/produto/smartphone-samsung-galaxy-s-g-tela--339687089",
+    "produto_buscado": "Samsung Galaxy S26 5G 512GB Preto",
+    "data": "2026-04-25"
   }
 ]
